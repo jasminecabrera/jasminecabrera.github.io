@@ -5,11 +5,13 @@ project:
 website:
   title: "jasmine cabrera"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - href: media/aprilresume.pdf
+        text: CV
+        
 format:
   html:
     theme: minty
