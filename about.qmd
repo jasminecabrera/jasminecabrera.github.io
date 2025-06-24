@@ -1,5 +1,14 @@
 ---
-title: "About"
+title: "About Me"
+image: media/headshot.JPG
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
 ---
 
-About this site
+Hey! My name is Jasmine Cabrera. I just graduated from Cal Poly SLO in June 2025 with a degree in Statistics and a minor in Data Science. This fall, I’m excited to be heading back to finish my Master’s in Statistics as well.
+
+I’m really into all things data, especially digging into messy data to find cool and useful trends. I also am all about Cal Poly’s “learn by doing” approach! I love jumping right in with data visualization, predictive modeling, and automation to turn numbers into clear stories.
+
+I’m proficient with R, Python, SQL, and SAS, and I’ve also worked with PowerBI and Tableau to create dashboards that help teams understand their data better. My goal is to leverage these skills to help teams make smarter decisions and build better experiences for users :)

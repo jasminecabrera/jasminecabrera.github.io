@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jasmine Cabrera’s Website",
+    "title": "jasmine cabrera’s personal website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "welcome! it’s great to have you here!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "Hey! My name is Jasmine Cabrera. I just graduated from Cal Poly SLO in June 2025 with a degree in Statistics and a minor in Data Science. This fall, I’m excited to be heading back to finish my Master’s in Statistics as well.\nI’m really into all things data, especially digging into messy data to find cool and useful trends. I also am all about Cal Poly’s “learn by doing” approach! I love jumping right in with data visualization, predictive modeling, and automation to turn numbers into clear stories.\nI’m proficient with R, Python, SQL, and SAS, and I’ve also worked with PowerBI and Tableau to create dashboards that help teams understand their data better. My goal is to leverage these skills to help teams make smarter decisions and build better experiences for users :)"
   }
 ]

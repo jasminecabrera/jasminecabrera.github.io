@@ -1,7 +1,18 @@
 ---
-title: "Jasmine Cabrera's Website"
+title: "jasmine cabrera's personal website"
+image: media/headshot.JPG
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jkscabrera/
+    - text: GitHub
+      href: https://github.com/jasminecabrera
+    - text: Email
+      href: jkscabrera2003@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+welcome! it's great to have you here!
